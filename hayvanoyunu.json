@@ -1,0 +1,34 @@
+﻿{
+    "kus": {
+        "url": "Pictures/kus.jpg",
+        "ses": "sound/kus.mp3"
+    },
+    "at": {
+        "url": "Pictures/at.jpg",
+        "ses": "sound/at.mp3"
+    },
+    "aslan": {
+        "url": "Pictures/aslan.jpg",
+        "ses": "sound/aslan.mp3"
+    },
+    "kaplan": {
+        "url": "Pictures/kaplan.jpg",
+        "ses": "sound/kaplan.mp3"
+    },
+    "kedi": {
+        "url": "Pictures/kedi.jpg",
+        "ses": "sound/kedi.mp3"
+    },
+    "kuzu": {
+        "url": "Pictures/kuzu.jpg",
+        "ses": "sound/kuzu.mp3"
+    },
+    "ördek": {
+        "url": "Pictures/ördek.jpg",
+        "ses": "sound/ördek.mp3"
+    },
+    "goril": {
+        "url": "Pictures/goril.jpg",
+        "ses": "sound/goril.mp3"
+    }
+}
